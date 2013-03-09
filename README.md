@@ -1,0 +1,4 @@
+binding_bar
+===========
+
+test
